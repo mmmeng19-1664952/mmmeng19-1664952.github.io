@@ -1,0 +1,15 @@
+#pretty{
+    background: #F2D7D5;
+    text-align: center;
+    border-style: dotted;
+    font-size: 25px;
+    font-family: "Comic Sans MS", 'Courier New', Courier, monospace, sans-serif;
+}
+
+#haokan {
+    background: #FAD7A0 ;
+    font-family: Hand, serif;
+    text-align: center;
+    border-style: dotted;
+    font-size: 25px; 
+}
